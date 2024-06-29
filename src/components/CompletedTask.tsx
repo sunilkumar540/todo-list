@@ -3,7 +3,7 @@ import React from 'react'
 const CompletedTask:React.FC = () => {
   return (
     <div>
-      nhghghj
+      Meri Jaan
     </div>
   )
 }

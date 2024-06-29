@@ -1,6 +1,6 @@
 import React from 'react'
 
-function TaskList:React.FC=() {
+const TaskList:React.FC=()=> {
   return (
     <div>
       hhjhiui

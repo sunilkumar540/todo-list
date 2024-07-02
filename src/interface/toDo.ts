@@ -1,4 +1,4 @@
-export interface IInputField ={
+export interface IInputField {
     value : string;
 
 }
